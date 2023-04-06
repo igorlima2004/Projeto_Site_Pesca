@@ -2,7 +2,20 @@ nav {
     margin: 5px red;
     background-color: #59CAE2;
 }
-
+ul > nav {
+    list-style-type: none;
+}
+section#home{
+    text-align: left;
+}
 hr{
     color: #CFCFCF;
+}
+span{
+    background-color:#F9F6F6 ;
+    color:#A19A9A;
+}
+footer{
+    background-color: #9E9898;
+    color: #3F3B3B ;
 }
